@@ -1,0 +1,7 @@
+[console_scripts]
+ROS2Publisher = main.Topic_python.cmd_vel:main
+encoder_joint_state_publisher = main.Topic_python.joint_states:main
+fake_robot = main.fake_robot:main
+main = main.main:main
+odom_tf_broadcaster = main.Topic_python.odom_tf_broadcaster:main
+

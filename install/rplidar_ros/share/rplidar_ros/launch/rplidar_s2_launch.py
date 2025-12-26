@@ -1,0 +1,1 @@
+/home/amr/turtlebot3_ws/rplidar_ros/launch/rplidar_s2_launch.py

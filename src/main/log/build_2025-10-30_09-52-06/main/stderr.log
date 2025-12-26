@@ -1,0 +1,3 @@
+/usr/lib/python3/dist-packages/setuptools/dist.py:723: UserWarning: Usage of dash-separated 'script-dir' will not be supported in future versions. Please use the underscore name 'script_dir' instead
+  warnings.warn(
+error: [Errno 17] File exists: '/home/amr/turtlebot3_ws/src/turtlebot3/turtlebot3_bringup/main/build/main/resource/main' -> '/home/amr/turtlebot3_ws/src/turtlebot3/turtlebot3_bringup/main/install/main/share/ament_index/resource_index/packages/main'

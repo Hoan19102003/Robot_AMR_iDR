@@ -1,0 +1,24 @@
+[1.125s] Invoking command in '/home/amr/turtlebot3_ws/src/turtlebot3/main/build/main': PYTHONPATH=/home/amr/turtlebot3_ws/src/turtlebot3/main/build/main/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/amr/turtlebot3_ws/src/turtlebot3/main/install/main/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/amr/turtlebot3_ws/src/turtlebot3/main/build/main/build --no-deps symlink_data
+[1.497s] /usr/lib/python3/dist-packages/setuptools/dist.py:723: UserWarning: Usage of dash-separated 'script-dir' will not be supported in future versions. Please use the underscore name 'script_dir' instead
+[1.497s]   warnings.warn(
+[1.540s] running develop
+[1.812s] running egg_info
+[1.812s] writing main.egg-info/PKG-INFO
+[1.812s] writing dependency_links to main.egg-info/dependency_links.txt
+[1.812s] writing entry points to main.egg-info/entry_points.txt
+[1.813s] writing requirements to main.egg-info/requires.txt
+[1.813s] writing top-level names to main.egg-info/top_level.txt
+[1.814s] reading manifest file 'main.egg-info/SOURCES.txt'
+[1.815s] writing manifest file 'main.egg-info/SOURCES.txt'
+[1.817s] running build_ext
+[1.819s] Creating /home/amr/turtlebot3_ws/src/turtlebot3/main/install/main/lib/python3.10/site-packages/main.egg-link (link to .)
+[1.820s] Installing ROS2Publisher script to /home/amr/turtlebot3_ws/src/turtlebot3/main/install/main/lib/main
+[1.820s] Installing encoder_joint_state_publisher script to /home/amr/turtlebot3_ws/src/turtlebot3/main/install/main/lib/main
+[1.820s] Installing main script to /home/amr/turtlebot3_ws/src/turtlebot3/main/install/main/lib/main
+[1.820s] Installing odom_tf_broadcaster script to /home/amr/turtlebot3_ws/src/turtlebot3/main/install/main/lib/main
+[1.821s] 
+[1.821s] Installed /home/amr/turtlebot3_ws/src/turtlebot3/main/build/main
+[1.821s] running symlink_data
+[1.821s] symbolically linking /home/amr/turtlebot3_ws/src/turtlebot3/main/build/main/resource/main -> /home/amr/turtlebot3_ws/src/turtlebot3/main/install/main/share/ament_index/resource_index/packages
+[1.822s] error: [Errno 17] File exists: '/home/amr/turtlebot3_ws/src/turtlebot3/main/build/main/resource/main' -> '/home/amr/turtlebot3_ws/src/turtlebot3/main/install/main/share/ament_index/resource_index/packages/main'
+[1.867s] Invoked command in '/home/amr/turtlebot3_ws/src/turtlebot3/main/build/main' returned '1': PYTHONPATH=/home/amr/turtlebot3_ws/src/turtlebot3/main/build/main/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/amr/turtlebot3_ws/src/turtlebot3/main/install/main/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/amr/turtlebot3_ws/src/turtlebot3/main/build/main/build --no-deps symlink_data

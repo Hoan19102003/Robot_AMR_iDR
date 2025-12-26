@@ -1,0 +1,27 @@
+[1.216s] Invoking command in '/home/amr/turtlebot3_ws/src/main/build/main': PYTHONPATH=/home/amr/turtlebot3_ws/src/main/build/main/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/amr/turtlebot3_ws/src/main/install/main/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/amr/turtlebot3_ws/src/main/build/main/build --no-deps symlink_data --force
+[1.648s] /usr/lib/python3/dist-packages/setuptools/dist.py:723: UserWarning: Usage of dash-separated 'script-dir' will not be supported in future versions. Please use the underscore name 'script_dir' instead
+[1.648s]   warnings.warn(
+[1.695s] running develop
+[2.006s] running egg_info
+[2.006s] writing main.egg-info/PKG-INFO
+[2.007s] writing dependency_links to main.egg-info/dependency_links.txt
+[2.007s] writing entry points to main.egg-info/entry_points.txt
+[2.007s] writing requirements to main.egg-info/requires.txt
+[2.007s] writing top-level names to main.egg-info/top_level.txt
+[2.009s] reading manifest file 'main.egg-info/SOURCES.txt'
+[2.010s] writing manifest file 'main.egg-info/SOURCES.txt'
+[2.013s] running build_ext
+[2.014s] Creating /home/amr/turtlebot3_ws/src/main/install/main/lib/python3.10/site-packages/main.egg-link (link to .)
+[2.015s] Installing ROS2Publisher script to /home/amr/turtlebot3_ws/src/main/install/main/lib/main
+[2.015s] Installing encoder_joint_state_publisher script to /home/amr/turtlebot3_ws/src/main/install/main/lib/main
+[2.016s] Installing main script to /home/amr/turtlebot3_ws/src/main/install/main/lib/main
+[2.016s] Installing odom_tf_broadcaster script to /home/amr/turtlebot3_ws/src/main/install/main/lib/main
+[2.016s] 
+[2.016s] Installed /home/amr/turtlebot3_ws/src/main/build/main
+[2.016s] running symlink_data
+[2.017s] symbolically linking /home/amr/turtlebot3_ws/src/main/build/main/resource/main -> /home/amr/turtlebot3_ws/src/main/install/main/share/ament_index/resource_index/packages
+[2.017s] symbolically linking /home/amr/turtlebot3_ws/src/main/build/main/package.xml -> /home/amr/turtlebot3_ws/src/main/install/main/share/main
+[2.017s] symbolically linking /home/amr/turtlebot3_ws/src/main/build/main/launch/navigation_with_tf.launch.py -> /home/amr/turtlebot3_ws/src/main/install/main/share/main/launch
+[2.017s] symbolically linking /home/amr/turtlebot3_ws/src/main/build/main/launch/occupancy_grid.launch.py -> /home/amr/turtlebot3_ws/src/main/install/main/share/main/launch
+[2.017s] error: [Errno 2] No such file or directory: '/home/amr/turtlebot3_ws/src/main/install/main/share/main/launch/my_slam_toolbox.launch.py'
+[2.065s] Invoked command in '/home/amr/turtlebot3_ws/src/main/build/main' returned '1': PYTHONPATH=/home/amr/turtlebot3_ws/src/main/build/main/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/amr/turtlebot3_ws/src/main/install/main/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/amr/turtlebot3_ws/src/main/build/main/build --no-deps symlink_data --force

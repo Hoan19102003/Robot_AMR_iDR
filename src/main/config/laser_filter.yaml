@@ -1,0 +1,10 @@
+scan_filter_chain:
+  - name: range_filter
+    type: laser_filters/LaserScanRangeFilter
+    params:
+      use_message_range_limits: false
+      lower_threshold: 0.18     # bỏ tất cả điểm < 18cm (thường là thân robot)
+      upper_threshold: 8.0      # tùy tầm quét LIDAR, ví dụ 8m
+      lower_replacement_value: NaN
+      upper_replacement_value: NaN
+

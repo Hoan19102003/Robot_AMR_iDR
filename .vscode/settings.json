@@ -1,0 +1,9 @@
+{
+    "cmake.sourceDirectory": "/home/amr/turtlebot3_ws/src/main/OpenCR/arduino/opencr_arduino/opencr/libraries/Eigen331/src/Eigen",
+    "files.associations": {
+        "array": "cpp",
+        "bitset": "cpp",
+        "chrono": "cpp",
+        "algorithm": "cpp"
+    }
+}

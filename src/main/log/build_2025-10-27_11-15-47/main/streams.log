@@ -1,0 +1,33 @@
+[1.026s] Invoking command in '/home/amr/turtlebot3_ws/src/main/build/main': PYTHONPATH=/home/amr/turtlebot3_ws/src/main/build/main/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/amr/turtlebot3_ws/src/main/install/main/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/amr/turtlebot3_ws/src/main/build/main/build
+[1.411s] /usr/lib/python3/dist-packages/setuptools/dist.py:723: UserWarning: Usage of dash-separated 'script-dir' will not be supported in future versions. Please use the underscore name 'script_dir' instead
+[1.411s]   warnings.warn(
+[1.452s] running develop
+[1.724s] Removing /home/amr/turtlebot3_ws/src/main/install/main/lib/python3.10/site-packages/main.egg-link (link to .)
+[1.767s] Invoked command in '/home/amr/turtlebot3_ws/src/main/build/main' returned '0': PYTHONPATH=/home/amr/turtlebot3_ws/src/main/build/main/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/amr/turtlebot3_ws/src/main/install/main/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/amr/turtlebot3_ws/src/main/build/main/build
+[1.769s] Invoking command in '/home/amr/turtlebot3_ws/src/main': PYTHONPATH=/home/amr/turtlebot3_ws/src/main/build/main/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/amr/turtlebot3_ws/src/main/install/main/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/main build --build-base /home/amr/turtlebot3_ws/src/main/build/main/build install --record /home/amr/turtlebot3_ws/src/main/build/main/install.log --install-scripts $base/lib/main --single-version-externally-managed install_data --force
+[2.152s] /usr/lib/python3/dist-packages/setuptools/dist.py:723: UserWarning: Usage of dash-separated 'script-dir' will not be supported in future versions. Please use the underscore name 'script_dir' instead
+[2.152s]   warnings.warn(
+[2.166s] running egg_info
+[2.167s] writing build/main/main.egg-info/PKG-INFO
+[2.167s] writing dependency_links to build/main/main.egg-info/dependency_links.txt
+[2.167s] writing entry points to build/main/main.egg-info/entry_points.txt
+[2.167s] writing requirements to build/main/main.egg-info/requires.txt
+[2.168s] writing top-level names to build/main/main.egg-info/top_level.txt
+[2.169s] reading manifest file 'build/main/main.egg-info/SOURCES.txt'
+[2.170s] writing manifest file 'build/main/main.egg-info/SOURCES.txt'
+[2.170s] running build
+[2.171s] running install
+[2.171s] running install_data
+[2.171s] copying resource/main -> /home/amr/turtlebot3_ws/src/main/install/main/share/ament_index/resource_index/packages
+[2.171s] copying package.xml -> /home/amr/turtlebot3_ws/src/main/install/main/share/main
+[2.171s] copying launch/navigation_with_tf.launch.py -> /home/amr/turtlebot3_ws/src/main/install/main/share/main/launch
+[2.172s] copying launch/occupancy_grid.launch.py -> /home/amr/turtlebot3_ws/src/main/install/main/share/main/launch
+[2.172s] running install_egg_info
+[2.176s] Copying build/main/main.egg-info to /home/amr/turtlebot3_ws/src/main/install/main/lib/python3.10/site-packages/main-0.0.1-py3.10.egg-info
+[2.178s] running install_scripts
+[2.207s] Installing ROS2Publisher script to /home/amr/turtlebot3_ws/src/main/install/main/lib/main
+[2.208s] Installing encoder_joint_state_publisher script to /home/amr/turtlebot3_ws/src/main/install/main/lib/main
+[2.208s] Installing main script to /home/amr/turtlebot3_ws/src/main/install/main/lib/main
+[2.208s] Installing odom_tf_broadcaster script to /home/amr/turtlebot3_ws/src/main/install/main/lib/main
+[2.208s] writing list of installed files to '/home/amr/turtlebot3_ws/src/main/build/main/install.log'
+[2.245s] Invoked command in '/home/amr/turtlebot3_ws/src/main' returned '0': PYTHONPATH=/home/amr/turtlebot3_ws/src/main/build/main/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/amr/turtlebot3_ws/src/main/install/main/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/main build --build-base /home/amr/turtlebot3_ws/src/main/build/main/build install --record /home/amr/turtlebot3_ws/src/main/build/main/install.log --install-scripts $base/lib/main --single-version-externally-managed install_data --force

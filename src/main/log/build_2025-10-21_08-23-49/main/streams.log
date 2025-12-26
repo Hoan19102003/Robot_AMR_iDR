@@ -1,0 +1,23 @@
+[1.026s] Invoking command in '/home/amr/turtlebot3_ws/src/main/build/main': PYTHONPATH=/home/amr/turtlebot3_ws/src/main/build/main/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/amr/turtlebot3_ws/src/main/install/main/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/amr/turtlebot3_ws/src/main/build/main/build --no-deps symlink_data
+[1.447s] running develop
+[1.722s] running egg_info
+[1.723s] writing main.egg-info/PKG-INFO
+[1.723s] writing dependency_links to main.egg-info/dependency_links.txt
+[1.723s] writing entry points to main.egg-info/entry_points.txt
+[1.723s] writing requirements to main.egg-info/requires.txt
+[1.724s] writing top-level names to main.egg-info/top_level.txt
+[1.725s] reading manifest file 'main.egg-info/SOURCES.txt'
+[1.726s] writing manifest file 'main.egg-info/SOURCES.txt'
+[1.729s] running build_ext
+[1.730s] Creating /home/amr/turtlebot3_ws/src/main/install/main/lib/python3.10/site-packages/main.egg-link (link to .)
+[1.731s] Installing cmd_vel script to /home/amr/turtlebot3_ws/src/main/install/main/lib/main
+[1.732s] Installing encoder_joint_state_publisher script to /home/amr/turtlebot3_ws/src/main/install/main/lib/main
+[1.732s] Installing main script to /home/amr/turtlebot3_ws/src/main/install/main/lib/main
+[1.732s] Installing odom script to /home/amr/turtlebot3_ws/src/main/install/main/lib/main
+[1.732s] Installing odom_tf_broadcaster script to /home/amr/turtlebot3_ws/src/main/install/main/lib/main
+[1.733s] 
+[1.733s] Installed /home/amr/turtlebot3_ws/src/main/build/main
+[1.733s] running symlink_data
+[1.733s] symbolically linking /home/amr/turtlebot3_ws/src/main/build/main/launch/my_slam_toolbox.launch.py -> /home/amr/turtlebot3_ws/src/main/install/main/share/main/launch
+[1.733s] error: [Errno 17] File exists: '/home/amr/turtlebot3_ws/src/main/build/main/launch/my_slam_toolbox.launch.py' -> '/home/amr/turtlebot3_ws/src/main/install/main/share/main/launch/my_slam_toolbox.launch.py'
+[1.775s] Invoked command in '/home/amr/turtlebot3_ws/src/main/build/main' returned '1': PYTHONPATH=/home/amr/turtlebot3_ws/src/main/build/main/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/amr/turtlebot3_ws/src/main/install/main/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/amr/turtlebot3_ws/src/main/build/main/build --no-deps symlink_data
